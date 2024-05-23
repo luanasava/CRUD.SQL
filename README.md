@@ -12,7 +12,8 @@ Install-Package Microsoft.EntityFrameworkCore
 Install-Package Microsoft.EntityFrameworkCore.Design
 Install-Package Microsoft.EntityFrameworkCore.SqlServer
 
-Resumo do projeto:
+Resumo do projeto
+
 Projeto Code-First, pois foi definido modelo de dados usando classes C#, utilizado Migrations para gerenciar o banco de dados.
 O Projeto foi desenvolvido com .Net 8, utilizando a arquitetura MVC (Model-View-Controller), onde na pasta Models ficam armazanadas as classes que representam os dados da aplicação. 
 Os modelos são repsonsáveis pela definição das entidades que serão manipuladas pela aplicação.
