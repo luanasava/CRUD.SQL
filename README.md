@@ -2,15 +2,17 @@
 
 Este projeto é um sistema CRUD (Create, Read, Update, Delete) desenvolvido com .NET 8 e SQL Server. Ele permite a manipulação de dados de uma entidade, fornecendo uma interface para criar, ler, atualizar e deletar registros de produtos.
 
-* Tecnologias Utilizadas
+Tecnologias Utilizadas
 - .NET 8
 - Entity Framework Core
 - SQL Server
 
-* Pacotes instalados
+Pacotes instalados
 Install-Package Microsoft.EntityFrameworkCore
 Install-Package Microsoft.EntityFrameworkCore.Design
 Install-Package Microsoft.EntityFrameworkCore.SqlServer
+
+
 
 Resumo do projeto
 
