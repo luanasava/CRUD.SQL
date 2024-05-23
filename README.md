@@ -7,9 +7,14 @@ Tecnologias Utilizadas
 - Entity Framework Core
 - SQL Server
 
+
 Pacotes instalados
+
+
 Install-Package Microsoft.EntityFrameworkCore
+
 Install-Package Microsoft.EntityFrameworkCore.Design
+
 Install-Package Microsoft.EntityFrameworkCore.SqlServer
 
 
